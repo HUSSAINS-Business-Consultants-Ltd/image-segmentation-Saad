@@ -7,7 +7,7 @@ Facebook: https://www.facebook.com/raselhasandurjoy<br>
 Company WEB: https://triangeltech.com/ <br>
 Phone: +8801904654712<br>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Android-TV-Live-Stream)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/image-segmentation-Saad)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
@@ -24,14 +24,6 @@ Link to the full blog post with tutorial : https://divamgupta.com/image-segmenta
 ## Our Other Repositories
 - [Attention based Language Translation in Keras](https://github.com/divamgupta/attention-translation-keras)
 - [Ladder Network in Keras](https://github.com/divamgupta/ladder_network_keras)  model achives 98% test accuracy on MNIST with just 100 labeled examples
-
-### Contributors
-
-Divam Gupta : https://divamgupta.com [![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40divamgupta&style=social&url=https%3A%2F%2Ftwitter.com%2Fdivamgupta)](https://twitter.com/divamgupta)
-
-
-[Rounaq Jhunjhunu wala](https://github.com/rjalfa)
-
 
 
 ## Models
